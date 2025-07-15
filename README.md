@@ -5,7 +5,7 @@ This project demonstrates text generation using a **Gated Recurrent Unit (GRU)**
 
 ## Features
 - Uses **GRU-based Recurrent Neural Networks** for text generation.
-- Implements **character-level and word-level generation**.
+- Implements **character-level generation**.
 - Provides **configurable training parameters** such as epochs, learning rate, and batch size.
 - Includes **data preprocessing, training, and text generation scripts**.
 
