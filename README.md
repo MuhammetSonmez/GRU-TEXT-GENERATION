@@ -12,8 +12,6 @@ This project demonstrates text generation using a **Gated Recurrent Unit (GRU)**
 ## Requirements
 - Python 3.10+
 - PyTorch 2.5.1+
-- NumPy
-- Matplotlib (for visualization)
 - Jupyter Notebook (optional for interactive usage)
 
 ## How It Works
