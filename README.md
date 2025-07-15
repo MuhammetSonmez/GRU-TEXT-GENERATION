@@ -16,9 +16,5 @@ This project demonstrates text generation using a **Gated Recurrent Unit (GRU)**
 
 ## How It Works
 1. The input text dataset is preprocessed and tokenized.
-2. The GRU-based model is trained to learn character or word sequences.
+2. The GRU-based model is trained to learn character sequences.
 3. The trained model generates text based on a given seed input.
-
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or new features.
-
